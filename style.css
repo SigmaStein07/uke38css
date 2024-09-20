@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(0, 9, 32);
+    color: rgb(255, 255, 255);
+}
+
+#bilde1 {
+    text-align: center;
+}
+
+#main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 1rem;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  
+    font-size: xx-large;  
+}
+
+.loaded .wave {
+    display: inline-block;
+    animation: wave 1s ease-in-out 300ms 1 normal backwards;
+}
+
+p {
+    margin-left: 40%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: x-large
+}
+
+ul li {
+    margin-bottom: 0.25rem;
+}
+
+#tekst12 {
+    margin-left:39.5%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: x-large
+}
+
+h2 {
+margin-left: 40%;
+}
+
+hr {
+    margin-left: 39.7%;
+    width: 21.3%;
+}
+
+#kategorier {
+    margin-left: 39.7%;
+    
+}
